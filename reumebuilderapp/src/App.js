@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <img src="#" alt="#"></img>
+     <p>im done and imma jr stacker</p>
     </div>
   );
 }
